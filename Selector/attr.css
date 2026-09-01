@@ -1,0 +1,9 @@
+input[type="text"]{
+    background: #000;
+    background-color: aliceblue;
+}
+
+input[type="password"]{
+    background: #000;
+    background-color: rgb(86, 156, 217);
+}
